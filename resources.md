@@ -14,7 +14,7 @@ nav_order: 2
 - University of Rochester's [Fredick Douglass Project](https://rbscp.lib.rochester.edu/2494)
 - Marcus A. Watts, [“Web Essay: Washington Honors Douglass Better than Rochester,”](https://www.democratandchronicle.com/story/opinion/2013/07/24/web-essay-washington-honors-douglass-better-than-rochester/2583011/) *Democrat and Chronicle*, July 24, 2013.
 - [“Editorial: Rochester Can Lead the Way in Honoring Frederick Douglass,”](https://www.democratandchronicle.com/story/opinion/editorials/2017/12/28/editorial-rochester-can-lead-way-honoring-frederick-douglass/108982548/) *Democrat and Chronicle*, December 28, 2017.
-- Justin Murphy, [“Frederick Douglass Statues to Be Installed throughout Rochester,”](https://www.democratandchronicle.com/story/news/2018/07/17/frederick-douglass-statues-rochester-olivia-kim-bicentennial/775231002/), *Democrat and Chronicle*, July 17, 2018.
+- Justin Murphy, [“Frederick Douglass Statues to Be Installed throughout Rochester,”](https://www.democratandchronicle.com/story/news/2018/07/17/frederick-douglass-statues-rochester-olivia-kim-bicentennial/775231002/) *Democrat and Chronicle*, July 17, 2018.
 
 ## Transcription
 
