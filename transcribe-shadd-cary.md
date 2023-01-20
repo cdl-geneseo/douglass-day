@@ -1,6 +1,7 @@
 ---
 title: "Transcribe Shadd Cary"
 layout: default
+nav_order: 1
 ---
 
 <div style="text-align:center;">

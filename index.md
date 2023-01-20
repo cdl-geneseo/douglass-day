@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 
 Welcome to the home of Douglass Day at SUNY Geneseo. Watch this space for information about how Geneseo will participate in Douglass Day on February 14&mdash;the date on which [Frederick Douglass](https://www.nps.gov/people/frederick-douglass.htm) chose to celebrate his birthday&mdash;from 12 p.m. to 3 p.m. 
