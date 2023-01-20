@@ -3,8 +3,9 @@ title: Home
 layout: home
 nav_order: 0
 ---
+# Join us!
 
-**Join us this February 14 from 12 p.m. to 3 p.m.** in the College Union Hunt Room as SUNY Geneseo celebrates [Douglass Day 2023](https://douglassday.org)!
+Join SUNY Geneseo's Center for Digital Learning, Center for Integrative Learning, and Teaching and Learning Center **this February 14 from 12 p.m. to 3 p.m.** in the **College Union Hunt Room** to celebrate *[Douglass Day 2023!](https://douglassday.org)*
 
 We'd love it if you'd [take a moment to RSVP](https://forms.gle/71d9Uax4yKPBkjHh7) so we know how many folks in the SUNY Geneseo community to expect.
 

@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <div style="text-align:center;">
-<img src="assets/transcribe-shadd-cary.png" width="50%" alt="Sticker for Transcribe Shadd Cary with photo of Mary Ann Shadd Cary" />
+<img src="assets/transcribe-shadd-cary.png" width="50%" alt="Headshot of Mary Ann Shadd Cary with motto 'Transcribe Shadd Cary'" />
 </div>
 
 Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. This year's transcribe-a-thon focuses on the papers of [Mary Ann Shadd Cary](https://douglassday.org/shadd/).
