@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Books and articles on Mary Ann Shadd Cary
 
-- Jane Rhodes, *Mary Ann Shadd Cary: The Black Press and Protest in the Nineteenth Century* (Indiana Univ. Press, 1998)
+- Jane Rhodes, *Mary Ann Shadd Cary: The Black Press and Protest in the Nineteenth Century*, Indiana Univ. Press, 1998.
 
 ## Frederick Douglass in Rochester, NY
 
