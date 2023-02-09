@@ -3,8 +3,9 @@ title: "Organizers"
 layout: default
 nav_order: 5
 ---
-# Organizers
-
+<div style="text-align:center;">
+<img src="assets/do-more-talk-less.png" width="50%" style="border-radius:50%;" alt="Motto: We should do more and talk less" />
+</div>
 - Paul Schacht, Professor of English and Director, Center for Digital Learnning
 - Melanie Medeiros, Associate Professor of Anthropology and Director, Center for Integrative Learning
 - Justin Behrend, Professor and Chair, Department of History
