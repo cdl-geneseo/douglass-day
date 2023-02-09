@@ -29,3 +29,7 @@ If you pull up a page that just seems overwhelming, you can move on to another o
 *Remember, every contribution to the project, no matter how small, helps increase the value of these documents for the community of scholars and other people to whom they are meaningful. And community is the beating heart of Douglass Day.* 
 
 So set aside your worries, roll up your sleeves, and pitch in as best you can!
+
+The short video below, from Douglass Day 2020, provides a great explanation of why transcription matters and how participants transcribe on Zooniverse.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/27aaK1Ss8xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
