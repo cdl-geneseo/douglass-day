@@ -3,6 +3,8 @@ title: "Videos"
 layout: default
 nav_order: 4
 ---
+# Videos
+
 Here are just a few of the many informative videos available on the Douglass Day [YouTube channel](https://www.youtube.com/@douglassday).
 
 ## A short history of Douglass Day
