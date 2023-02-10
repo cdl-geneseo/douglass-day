@@ -1,7 +1,7 @@
 ---
 title: "Organizers"
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 <div style="text-align:center;">
 <img src="assets/do-more-talk-less.png" width="50%" style="border-radius:50%;" alt="Motto: We should do more and talk less" />
