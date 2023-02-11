@@ -5,7 +5,11 @@ nav_order: 5
 ---
 # Schedule
 
-The live stream on [YouTube](https://www.youtube.com/channel/UCsMTkXeP7D-KJKN_3n53g0A) begins at 12 noon on February 14. Consult the [main Douglass Day website](https://douglassday.substack.com/p/douglass-day-is-almost-here) for complete details.
+The live stream on [YouTube](https://www.youtube.com/channel/UCsMTkXeP7D-KJKN_3n53g0A) begins at 12 noon on February 14. Consult the [main Douglass Day website](https://douglassday.substack.com/p/douglass-day-is-almost-here) for complete details. We'll gather in the College Union Hunt Room to watch the live stream together and celebrate Frederick Douglass, Mary Ann Shadd Cary, Black history and activism, and our own community. We'll participate together in the transcription activity. 
+
+Organizers will be on hand to help with transcription, but remember that there are many ways to contribute&mdash;from transcribing handwritten or printed documents to simply identifying names in the documents&mdash;and that you don't have to overthink accuracy: it's fine just to do the best job you can.
+
+If you're not able to join us in the Hunt Room, you can watch the live stream and participate in transcription on your own device, wherever you are.
 
 ### Live Broadcast–12:00 PM- 12:30 PM EST
 
