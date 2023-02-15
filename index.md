@@ -7,7 +7,7 @@ nav_order: 0
 
 Thanks to everyone who made SUNY Geneseo's first [Douglass Day](https://douglassday.org) celebration a success!
 
-![Geneseo Douglass Day participants transcribing papers of Mary Ann Shadd Cary on Zooniverse](/assets/douglass-day-transcribers-at-work.jpg)
+<img src="assets/douglass-day-transcribers-at-work.jpg" alt="Geneseo Douglass Day participants transcribing papers of Mary Ann Shadd Cary on Zooniverse" />
 
 On February 14, 2023, about 40-50 students, faculty (academic and professional), and administrators gathered in the SUNY Geneseo College Union Hunt Room to celebrate Black history and activism along with some 7,000 participants from across the U.S., Europe, and Africa.
 
