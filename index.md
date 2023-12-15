@@ -12,9 +12,9 @@ nav_order: 0
 
 Described by its national [organizers](https://douglassday.org/about/) as a day of "collective action for Black history," every year Douglass Day gives participants the opportunity to [create communal spaces for remembering and preserving Black history with Black communities](https://douglassday.org/about/principles/) in ways that promote critical reflection and joy.
 
-Each year, the Douglass Day organizers invite people everywhere to help transcribe digitized collections important to Black history. Previous Zooniverse transcribe-a-thons have focused on records from the [Colored Conventions project](https://coloredconventions.org/) and papers of Anna Julia Cooper, Mary Church Terrell, and Mary Ann Shadd Cary.
+Each year, the Douglass Day organizers invite people everywhere to help transcribe digitized collections important to Black history. Previous "transcribe-a-thons" have focused on records from the [Colored Conventions project](https://coloredconventions.org/) and papers of Anna Julia Cooper, Mary Church Terrell, and Mary Ann Shadd Cary.
 
-This year's "transcribe-a-thon" will feature [correspondence of Frederick Douglass himself](https://www.loc.gov/search/?fa=partof:frederick+douglass+papers:+general+correspondence,+1841-1912) in the archives of the Library of Congress.
+This year's transcribe-a-thon will feature [correspondence of Frederick Douglass himself](https://www.loc.gov/search/?fa=partof:frederick+douglass+papers:+general+correspondence,+1841-1912) in the archives of the Library of Congress.
 
 ## Transcription? That sounds hard!
 
