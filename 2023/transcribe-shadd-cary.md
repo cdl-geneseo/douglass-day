@@ -5,6 +5,9 @@ parent: Douglass Day 2023
 nav_order: 1
 ---
 
+{: .important}
+You're viewing an archived page from Douglass Day 2023. Details may not apply to Douglass Day 2024.
+
 # Instructions 2023
 
 Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. This year's transcribe-a-thon focuses on the papers of [Mary Ann Shadd Cary](https://douglassday.org/shadd/).

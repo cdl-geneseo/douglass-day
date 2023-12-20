@@ -4,6 +4,10 @@ layout: default
 parent: Douglass Day 2023
 nav_order: 5
 ---
+
+{: .important}
+You're viewing an archived page from Douglass Day 2023. Details may not apply to Douglass Day 2024.
+
 # Schedule for Douglass Day 2023
 
 The live stream on [YouTube](https://www.youtube.com/channel/UCsMTkXeP7D-KJKN_3n53g0A) begins at 12 noon on February 14. Consult the [main Douglass Day website](https://douglassday.substack.com/p/douglass-day-is-almost-here) for complete details. We'll gather in the College Union Hunt Room to watch the live stream together and celebrate Frederick Douglass, Mary Ann Shadd Cary, Black history and activism, and our own community. We'll participate together in the transcription activity. 

@@ -5,6 +5,9 @@ parent: Douglass Day 2023
 nav_order: 3
 ---
 
+{: .important}
+You're viewing an archived page from Douglass Day 2023. Details may not apply to Douglass Day 2024.
+
 # Reading for Douglass Day 2023
 
 ## Books, articles, and videos on Mary Ann Shadd Cary

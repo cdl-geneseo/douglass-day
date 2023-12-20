@@ -5,6 +5,9 @@ parent: Douglass Day 2023
 nav_order: 6
 ---
 
+{: .important}
+You're viewing an archived page from Douglass Day 2023. Details may not apply to Douglass Day 2024.
+
 # 2023 Organizers
 
 - Paul Schacht, Professor of English and Director, Center for Digital Learning

@@ -3,3 +3,18 @@ description: Everything you need to know to celebrate Douglass Day at SUNY Genes
 theme: just-the-docs
 url: https://cdl-geneseo.github.io/douglass-day
 color_scheme: dark
+callouts:
+  warning:
+    title: Be Careful
+    color: red
+  tip:
+    title: Tip
+    color: green
+  alt-warning:
+    color: red
+  important:
+    title: Important
+    color: yellow
+  note:
+    title: Note
+    color: purple

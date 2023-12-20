@@ -6,4 +6,6 @@ has_children: true
 ---
 # Douglass Day 2023
 
-Archived materials from Douglass Day 2023 at SUNY Geneseo.
+{: .important}
+This is an archive of materials from Douglass Day 2023. Details may not apply to Douglass Day 2024.
+
