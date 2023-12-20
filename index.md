@@ -18,7 +18,9 @@ This year's transcribe-a-thon will feature [correspondence of Frederick Douglass
 
 ## Transcription? That sounds hard!
 
-Really, though, it's not! We'll have detailed instructions for transcribing the Douglass papers right here, including how-to videos, when they become available from the national organizers. And there'll be academic faculty, professional faculty, and students on hand to help.
+Really, though, it's not! We'll use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do our transcribing, and the LOC has provided [clear, detailed instructions](https://crowd.loc.gov/get-started/how-to-transcribe/#nothing-to-transcribe) for how to do the work. You have the option to create a By the People account to track your transcriptions and help review other people's transcriptions, but creating an account is optional. You don't need an account to pitch in and help transcribe.
+
+Academic faculty, professional faculty, and students will be on hand to answer any questions you may have.
 
 ## Let's make this a Geneseo tradition!
 
