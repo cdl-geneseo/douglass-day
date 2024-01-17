@@ -6,7 +6,7 @@ nav_order: 2
 
 # How Do I Transcribe?
 
-Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2024 transcribe-a-thon focuses on the [correspondence of Frederick Douglass in the Library of Congress](https://www.loc.gov/search/?fa=partof:frederick+douglass+papers:+general+correspondence,+1841-1912).
+<img src="assets/transcribe-douglass-2024.png" alt="Transcribe Douglass sticker showing Douglass\' face in profile" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2024 transcribe-a-thon focuses on the [correspondence of Frederick Douglass in the Library of Congress](https://www.loc.gov/search/?fa=partof:frederick+douglass+papers:+general+correspondence,+1841-1912).
 
 Transcribers will use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do the work.
 

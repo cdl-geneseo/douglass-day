@@ -6,11 +6,13 @@ nav_order: 4
 
 # For Instructors
 
+<img src="assets/douglass_signature_sticker.png" alt="Image of Douglass\'s signature" style="width: 30%; margin-right: 12px;"/>
+
 Here are some resources to help you fold Douglass Day into a course you're teaching this spring.
 
 ## Syllabus description
 
-If you're looking for some language you can include on your syllabus, in an assignment prompt, or in a communication to your students, feel free to adapt this one to your purposes:
+<!---->If you're looking for some language you can include on your syllabus, in an assignment prompt, or in a communication to your students, feel free to adapt this one to your purposes:
 
 > Described by its national organizers as a day of "collective action for Black history," Douglass Day gives participants the opportunity to create communal spaces for remembering and preserving Black history with Black communities in ways that promote critical reflection and joy. Each year on February 14&mdash;the date on which Frederick Douglass chose to celebrate his birthday&mdash;the Douglass Day organizers invite people everywhere to help transcribe digitized collections important to Black history. This year, participants will help transcribe correspondence of Frederick Douglass held by the Library of Congress. SUNY Geneseo will participate in Douglass Day from 12 p.m. to 3 p.m. in the College Union Ballrrom, watching the live stream from the organizers and transcribing documents. (Transcription instructions and support will be provided.) All you need to bring is your laptop and your enthusiasm. **[RSVP](https://forms.gle/iSnBYgDvSD35x4C27) not required but appreciated.**
 
