@@ -2,7 +2,8 @@ title: Douglass Day at SUNY Geneseo
 description: Everything you need to know to celebrate Douglass Day at SUNY Geneseo this February 14
 theme: just-the-docs
 url: https://cdl-geneseo.github.io/douglass-day
-color_scheme: dark
+favicon_ico: "/assets/favicon.ico"
+color_scheme: custom
 callouts:
   warning:
     title: Be Careful
