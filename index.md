@@ -3,15 +3,14 @@ title: Home
 layout: home
 nav_order: 0
 ---
+{: .alt-warning}
+Go directly to the [2024 schedule]({{ site.url }}/schedule).
 
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/douglassday-poster.png" alt="Poster for Douglass Day 2024" /></a></div>
 
 # Douglass Day 2024 at Geneseo
 
-{: .alt-warning}
-Go directly to the [2024 schedule]({{ site.url }}/schedule).
-
-[Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2024**, sponsored by the Geneseo [Center for Digital Learning](https://geneseo.edu/cdl).
+[Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2024**, sponsored by the [Center for Digital Learning](https://geneseo.edu/cdl), the [Center for Integrative Learning](https://www.geneseo.edu/cil), and the [Department of Music &amp; Musical Theatre](https://www.geneseo.edu/music).
 
 Described by its national [organizers](https://douglassday.org/about/) as a day of "collective action for Black history," every year Douglass Day gives participants the opportunity to [create communal spaces for remembering and preserving Black history with Black communities](https://douglassday.org/about/principles/) in ways that promote critical reflection and joy.
 

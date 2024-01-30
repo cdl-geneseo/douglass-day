@@ -12,7 +12,7 @@ callouts:
     title: Tip
     color: green
   alt-warning:
-    color: yellow
+    color: red
   important:
     title: Important
     color: yellow
