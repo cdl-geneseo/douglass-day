@@ -16,9 +16,9 @@ If you're not able to join us in the Ballroom, you can watch the live stream and
 
 ### 9:30 | The Archive of Black History and Culture at Rochester Public Library
 
-- Antoine McDonald, librarian in the Local History and Genealogy division of the Rochester Public Library, will give a presentation on ...
+- Antoine McDonald, librarian in the Local History and Genealogy division of the Rochester Public Library, will give a presentation on the Archive of Black History and Culture.
 
-### 10:30 | Musical performances 
+### 10:30 | Musical Performances 
 
 - Wayne Anthony Norwood and the Children of God
 - Geneseo Chamber Singers
@@ -46,7 +46,3 @@ We'll sing “Happy birthday” (both versions) and hear a dramatic reading of �
 ### 2:45 - 3:00 | Live Broadcast
 
 Highlights from social media, Bake Off prizes, and closing reflections.
-
-<!-- <div style="text-align:center;">
-<img src="assets/power.webp" width="50%" alt="Frederick Douglass headshot and motto 'Power concedes nothing without a demand'" />
-</div> -->

@@ -4,9 +4,12 @@ layout: home
 nav_order: 0
 ---
 
-<div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/save-the-date-2024.png" alt="Save the Date graphic for Douglass Day 2024" /></a></div>
+<div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/douglassday-poster.png" alt="Poster for Douglass Day 2024" /></a></div>
 
 # Douglass Day 2024 at Geneseo
+
+{: .alt-warning}
+Go directly to the [2024 schedule]({{ site.url }}/schedule).
 
 [Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2024**, sponsored by the Geneseo [Center for Digital Learning](https://geneseo.edu/cdl).
 
