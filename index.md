@@ -6,7 +6,7 @@ nav_order: 0
 {: .alt-warning}
 Go directly to the [2024 schedule]({{ site.url }}/schedule).
 
-<div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/douglassday-poster.jpeg" alt="Poster for Douglass Day 2024" /></a></div>
+<div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/douglassday-poster.jpg" alt="Poster for Douglass Day 2024" /></a></div>
 
 # Douglass Day 2024 at Geneseo
 
