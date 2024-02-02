@@ -12,19 +12,20 @@ Here are some resources to help you fold Douglass Day into a course you're teach
 
 ## Syllabus description
 
-<!---->If you're looking for some language you can include on your syllabus, in an assignment prompt, or in a communication to your students, feel free to adapt this one to your purposes:
+If you're looking for some language you can include on your syllabus, in an assignment prompt, or in a communication to your students, feel free to adapt this one to your purposes:
 
 > Described by its national organizers as a day of "collective action for Black history," Douglass Day gives participants the opportunity to create communal spaces for remembering and preserving Black history with Black communities in ways that promote critical reflection and joy. Each year on February 14&mdash;the date on which Frederick Douglass chose to celebrate his birthday&mdash;the Douglass Day organizers invite people everywhere to help transcribe digitized collections important to Black history. This year, participants will help transcribe correspondence of Frederick Douglass held by the Library of Congress. SUNY Geneseo will participate in Douglass Day from 12 p.m. to 3 p.m. in the College Union Ballrrom, watching the live stream from the organizers and transcribing documents. (Transcription instructions and support will be provided.) All you need to bring is your laptop and your enthusiasm. **[RSVP](https://forms.gle/iSnBYgDvSD35x4C27) not required but appreciated.**
 
 ## Transcription guide
 
-See [How Do I Transcribe?]({{ site.url }}/how-to-transcribe)
+See [How Do I Transcribe?]({{ site.url }}/how-to-transcribe) for instructions, as well as suggestions about the best way to prepare for the work you and your students will do on 
+Douglass Day.
 
 ## Ways you and your class can participate in Douglass Day
 
 ### Join your students for the live stream and/or transcribe-a-thon, or send them on their own
 
-- Have students create accounts on the Library of Congress' [By the People](https://crowd.loc.gov/) website, do some **transcribing**, and then send you links to their saved and submitted transcriptions as a **required or extra-credit assignment**. (Have those students who'd prefer not to create an account take screenshots of their transcription work or photograph it with their phones.)
+- Have each student create an account on the Library of Congress' [By the People](https://crowd.loc.gov/) website, do some **transcribing**, go to their profile page, and download an automatically generated letter that details their contributions to the project. Make this either a required or an extra-credit assignment. (Have those students who'd prefer not to create an account take screenshots of their transcription work or photograph it with their phones.)
 - In addition to, or instead of, asking students to transcribe, ask them to **write a short reflection** on one or more of the following:
     - How the activity of transcribing an original historical document (if they engaged in it) changed their connection to or understanding of history in general or Black history, women's history, or intersectional history in particular
     - How participating in Douglass Day (whether or not they transcribed) changed their understanding of some idea/issue/time period/text you're studying with them in class
