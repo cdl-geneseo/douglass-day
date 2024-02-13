@@ -3,10 +3,12 @@ title: "How Do I Transcribe?"
 layout: default
 nav_order: 2
 ---
+{: .alt-warning}
+Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2024-instructions.pdf) from the Library of Congress.
 
 # How Do I Transcribe?
 
-<img src="assets/transcribe-douglass-2024.png" alt="Transcribe Douglass sticker showing Douglass\' face in profile" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2024 transcribe-a-thon focuses on the [correspondence of Frederick Douglass in the Library of Congress](https://www.loc.gov/search/?fa=partof:frederick+douglass+papers:+general+correspondence,+1841-1912).
+<img src="assets/transcribe-douglass-2024.png" alt="Transcribe Douglass sticker showing Douglass\' face in profile" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2024 transcribe-a-thon focuses on the [correspondence of Frederick Douglass in the Library of Congress](https://crowd.loc.gov/campaigns/truly-douglass/).
 
 Transcribers will use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do the work.
 
@@ -16,15 +18,17 @@ You can transcribe *without registering an account on the By the People website*
 
 ## Overview
 
-Different transcription projects have different aims. The Library of Congress' By the People project is aimed primarily at improving the searchability, readability, and accessibility of documents in their collection for people who use screen readers or other assistive technology.
+The most important thing to keep in mind about this transcription project is that *every contribution from every transcriber helps move the project forward!* Crowdsourced transcription is a genuinely collective effort that you can participate in without being an expert in history, archival documents, or handwriting. All transcriptions go through a review process before being used, so you don't have to worry if you can transcribe only part of a document, aren't certain about some of the words you've transcribed, or make mistakes. *Just do your best.* Others will review your work and complete it or make corrections as needed.
 
-The project also seeks to honor the document creators' historical reality by preserving the original spelling, grammar, and punctuation in their documents.
+When you bring up a new document, take a few minutes to look it over before diving into transcription. Who seems to be the intended recipient of the document? What does the document seem to be about? Asking yourself these questions will help you situate the document in a human context. Next, scan the document for words you *can* read, rather than dwelling and getting stuck on the ones you can't make out. Words that at first appear unreadable may suddenly come into focus for you as you begin to understand the words *around* them.
+
+All that said, if you're completely flummoxed by a document, click to bring up a new one. No shame in that! Keep clicking till you find one that you think you can transcribe at least partially.
 
 ## Detailed instructions
 
-The By the People website has [detailed instructions](https://crowd.loc.gov/get-started/how-to-transcribe/) to guide you in transcribing documents in a way that meets their goals.
+The By the People website has [detailed instructions](https://crowd.loc.gov/get-started/how-to-transcribe/) to guide you in transcribing documents in a way that meets their goals. In addition, you might find it helpful to download this [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2024-instructions.pdf) from the Library of Congress.
 
-The site also explains [how to review transcribed documents](https://crowd.loc.gov/get-started/how-to-review/). You do need to register an account in order to review transcribed documents.
+The site explains [how to review transcribed documents](https://crowd.loc.gov/get-started/how-to-review/). You *do* need to register an account in order to review transcribed documents.
 
 ## Limbering up
 
