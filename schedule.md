@@ -16,7 +16,7 @@ If you're not able to join us in the Ballroom, you can watch the live stream and
 
 ### 9:30 | The Archive of Black History and Culture at Rochester Public Library
 
-- Antoine McDonald, librarian in the Local History and Genealogy division of the Rochester Public Library, will give a presentation on the Archive of Black History and Culture.
+- Antoine McDonald, librarian in the Local History and Genealogy division of the Rochester Public Library, will join us via Zoom to tell us about the [Archive of Black History and Culture](https://roccitylibrary.org/archive-of-black-history-culture/).
 
 ### 10:30 | Musical Performances 
 
@@ -26,6 +26,8 @@ If you're not able to join us in the Ballroom, you can watch the live stream and
 ## Afternoon
 
 ### 12:00 - 12:30 | Live Broadcast
+
+*Join the live broadcast from the Douglass Day [YouTube channel](https://youtube.com/channel/UCsMTkXeP7D-KJKN_3n53g0A).*
 
 We'll join the organizers in singing <a href="https://douglassday.org/anthem/" rel="nofollow ugc noopener">“Lift Every Voice and Sing”</a>, receive an overview of the program, and listen to speakers on Douglass.
 
