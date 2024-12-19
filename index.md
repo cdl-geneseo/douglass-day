@@ -8,7 +8,7 @@ nav_order: 0
 
 [Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2025**&mdash;in the gorgeous [Multi-Purpose Rooms (134/129)](https://d2jv02qf7xgjwx.cloudfront.net/customers/101/images/multipurpose-room.png) of newly renovated [Milne Library](https://library.geneseo.edu/)!
 
-More information coming in January. Watch this space for details.
+As in past years, the world-wide transcribe-a-thon and live stream from the organizers at DouglassDay.org will take place **from 12 noon to 3 p.m.** There may be morning events as well. More information coming in January; watch this space for details.
 
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="https://douglassday.org/wp-content/uploads/DDAY-2025-Save-the-Date.png" alt="Save-the-date poster for Douglass Day 2025 showing images from the Library of Congress" /></a></div>
 
