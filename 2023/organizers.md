@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 {: .important}
-You're viewing an archived page from Douglass Day 2023. Details may not apply to Douglass Day 2024.
+You're viewing an archived page from Douglass Day 2023. Details may not apply to the current Douglass Day celebration.
 
 # 2023 Organizers
 
