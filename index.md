@@ -6,9 +6,9 @@ nav_order: 0
 
 # Douglass Day 2025 at Geneseo
 
-[Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2025**, sponsored by the [Center for Digital Learning](https://geneseo.edu/cdl), location TBA. 
+[Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2025**&mdash;in the gorgeous [Multi-Purpose Rooms (134/129)](https://d2jv02qf7xgjwx.cloudfront.net/customers/101/images/multipurpose-room.png) of newly renovated [Milne Library](https://library.geneseo.edu/)!
 
-Watch this space for details!
+More information coming in January. Watch this space for details.
 
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="https://douglassday.org/wp-content/uploads/DDAY-2025-Save-the-Date.png" alt="Save-the-date poster for Douglass Day 2025 showing images from the Library of Congress" /></a></div>
 
