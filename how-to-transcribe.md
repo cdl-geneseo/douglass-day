@@ -8,7 +8,7 @@ Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-dou
 
 # How Do I Transcribe?
 
-<img src="assets/transcribe-douglass-2024.png" alt="Transcribe Douglass sticker showing Douglass\' face in profile" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2025 transcribe-a-thon focuses on the [African American Perspectives Collection at the Library of Congress](https://www.loc.gov/collections/african-american-perspectives-rare-books/about-this-collection/).
+<img src="assets/logo_2025.png" alt="Transcribe Douglass sticker showing Douglass\' face in profile" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2025 transcribe-a-thon focuses on the [African American Perspectives Collection at the Library of Congress](https://www.loc.gov/collections/african-american-perspectives-rare-books/about-this-collection/).
 
 Transcribers will use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do the work.
 
