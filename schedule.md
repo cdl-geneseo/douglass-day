@@ -6,7 +6,7 @@ nav_order: 2
 
 # Schedule for Douglass Day 2025
 
-<img src="../assets/power.webp" alt="Frederick Douglass headshot and motto 'Power concedes nothing without a demand'" style="width: 30%; margin-right: 12px;"/>
+<img src="assets/power.webp" alt="Frederick Douglass headshot and motto 'Power concedes nothing without a demand'" style="width: 30%; margin-right: 12px;"/>
 
 ## Morning
 
