@@ -1,7 +1,7 @@
 ---
 title: "What Is Douglass Day?"
 layout: default
-nav_order: 1
+nav_order: 3
 ---
 # A Short History of Douglass Day
 

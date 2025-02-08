@@ -1,7 +1,7 @@
 ---
 title: "How Do I Transcribe?"
 layout: default
-nav_order: 2
+nav_order: 4
 ---
 {: .alt-warning}
 Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2024-instructions.pdf) from the Library of Congress.

@@ -8,15 +8,21 @@ nav_order: 0
 
 [Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2025**&mdash;in the gorgeous [Multi-Purpose Rooms (134/129)](https://d2jv02qf7xgjwx.cloudfront.net/customers/101/images/multipurpose-room.png) of newly renovated [Milne Library](https://library.geneseo.edu/)!
 
-As in past years, the world-wide transcribe-a-thon and live stream from the organizers at DouglassDay.org will take place **from 12 noon to 3 p.m.** There may be morning events as well. More information coming in January; watch this space for details.
+Our celebration begins at **11:15 a.m.** in Milne with the Geneseo Chamber Singers, under the direction of Distinguished Teaching Professor Gerry Floriano, performing choral music celebrating Frederick Douglass's life, vision, and legacy.
+
+At **11:30 a.m.**, Geneseo Chief Diversity Officer Rodmon King will offer opening remarks.
+
+As in past years, the world-wide transcribe-a-thon and live stream from the organizers at [DouglassDay.org](https://douglassday.org) will take place **from 12 noon to 3 p.m.** This year's transcribe-a-thon will feature the [African American Perspectives Collection at the Library of Congress](https://www.loc.gov/collections/african-american-perspectives-rare-books/about-this-collection/).
+
+We'll have delicious birthday cake courtesy of [Sweet Arts Bakery](https://sweetartsny.weebly.com/) on Main St., Geneseo.
+
+See our [schedule]({{ site.url }}/schedule) page for complete details. 
 
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="https://douglassday.org/wp-content/uploads/DDAY-2025-Save-the-Date.png" alt="Save-the-date poster for Douglass Day 2025 showing images from the Library of Congress" /></a></div>
 
 Described by its national [organizers](https://douglassday.org/about/) as a day of "collective action for Black history," every year Douglass Day gives participants the opportunity to [create communal spaces for remembering and preserving Black history with Black communities](https://douglassday.org/about/principles/) in ways that promote critical reflection and joy.
 
 Each year, the Douglass Day organizers invite people everywhere to help transcribe digitized collections important to Black history. Previous "transcribe-a-thons" have focused on records from the [Colored Conventions project](https://coloredconventions.org/) papers of Anna Julia Cooper, Mary Church Terrell, and Mary Ann Shadd Cary, and correspondence of Frederick Douglass himself.
-
-This year's transcribe-a-thon will feature the [African American Perspectives Collection at the Library of Congress](https://www.loc.gov/collections/african-american-perspectives-rare-books/about-this-collection/).
 
 ## Transcription? That sounds hard!
 
