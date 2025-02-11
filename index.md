@@ -6,6 +6,9 @@ nav_order: 0
 
 # Douglass Day 2025 at Geneseo
 
+{: .alt-warning}
+Go straight to the [schedule]({{ site.url }}/schedule) or to [our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
+
 [Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2025**&mdash;in the gorgeous [Multi-Purpose Rooms (134/129)](https://d2jv02qf7xgjwx.cloudfront.net/customers/101/images/multipurpose-room.png) of newly renovated [Milne Library](https://library.geneseo.edu/)!
 
 Our celebration begins at **11:15 a.m.** in Milne with the Geneseo Chamber Singers, under the direction of Distinguished Teaching Professor Gerry Floriano, performing choral music celebrating Frederick Douglass's life, vision, and legacy.
@@ -16,8 +19,6 @@ As in past years, the world-wide transcribe-a-thon and live stream from the orga
 
 We'll have delicious birthday cake courtesy of [Sweet Arts Bakery](https://sweetartsny.weebly.com/) on Main St., Geneseo.
 
-See our [schedule]({{ site.url }}/schedule) page for complete details. 
-
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="https://douglassday.org/wp-content/uploads/DDAY-2025-Save-the-Date.png" alt="Save-the-date poster for Douglass Day 2025 showing images from the Library of Congress" /></a></div>
 
 Described by its national [organizers](https://douglassday.org/about/) as a day of "collective action for Black history," every year Douglass Day gives participants the opportunity to [create communal spaces for remembering and preserving Black history with Black communities](https://douglassday.org/about/principles/) in ways that promote critical reflection and joy.
@@ -26,7 +27,7 @@ Each year, the Douglass Day organizers invite people everywhere to help transcri
 
 ## Transcription? That sounds hard!
 
-Really, though, it's not! We'll use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do our transcribing, and the LOC has provided [clear, detailed instructions](https://crowd.loc.gov/get-started/how-to-transcribe/#nothing-to-transcribe) for how to do the work. You have the option to create a By the People account to track your transcriptions and help review other people's transcriptions, but creating an account is optional. You don't need an account to pitch in and help transcribe.
+Really, though, it's not! We'll use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do our transcribing, and the LOC has provided [clear, detailed instructions](https://crowd.loc.gov/get-started/how-to-transcribe/) for how to do the work. You have the option to create a By the People account to track your transcriptions and help review other people's transcriptions, but creating an account is optional. You don't need an account to pitch in and help transcribe.
 
 Academic faculty, professional faculty, and students will be on hand to answer any questions you may have.
 

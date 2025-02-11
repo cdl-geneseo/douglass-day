@@ -8,6 +8,9 @@ nav_order: 2
 
 <img src="assets/power.webp" alt="Frederick Douglass headshot and motto 'Power concedes nothing without a demand'" style="width: 30%; margin-right: 12px;"/>
 
+{: .alt-warning}
+[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
+
 ## Morning
 
 ### 11:15 am | The Geneseo Chamber Singers
@@ -29,6 +32,8 @@ We'll join the organizers in singing <a href="https://douglassday.org/anthem/" r
 ### 12:30 - 1:00 | Transcription and more
 
 Time for transcribing, readings, discussions, etc. During this time, the live stream will continue running but will go silent. The organizers' <a href="https://open.spotify.com/playlist/2XWu7KUki8NL5ps1FT7PC7?si=1234136005f24f7a" rel="nofollow ugc noopener">Spotify playlist</a> will back us up as we transcribe.
+
+[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
 
 ### 1:00 - 1:30 | Live Broadcast
 

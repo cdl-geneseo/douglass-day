@@ -4,7 +4,7 @@ layout: default
 nav_order: 4
 ---
 {: .alt-warning}
-Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2024-instructions.pdf) from the Library of Congress.
+Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2025-instructions.pdf) in pdf.
 
 # How Do I Transcribe?
 
