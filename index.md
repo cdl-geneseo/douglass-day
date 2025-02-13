@@ -11,7 +11,7 @@ Go straight to the [schedule]({{ site.url }}/schedule) or to [our easy-to-follow
 
 [Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 14, 2025**&mdash;in the gorgeous [Multi-Purpose Rooms (134/129)](https://d2jv02qf7xgjwx.cloudfront.net/customers/101/images/multipurpose-room.png) of newly renovated [Milne Library](https://library.geneseo.edu/)!
 
-Our celebration begins at **11:15 a.m.** in Milne with the Geneseo Chamber Singers, under the direction of Distinguished Teaching Professor Gerry Floriano, performing choral music celebrating Frederick Douglass's life, vision, and legacy.
+Our celebration begins at **11:15 a.m.** in Milne with the Geneseo Chamber Singers, under the direction of Distinguished Service Professor Gerry Floriano, performing choral music celebrating Frederick Douglass's life, vision, and legacy.
 
 At **11:30 a.m.**, Geneseo Chief Diversity Officer Rodmon King will offer opening remarks.
 
