@@ -1,21 +1,24 @@
 ---
-title: "Schedule for 2026"
+title: "Schedule 2025"
 layout: default
-nav_order: 2
+parent: Douglass Day 2025
+nav_order: 1
 ---
 
-# Schedule for Douglass Day 2026
+{: .important}
+You're viewing an archived page from Douglass Day 2025. Details may not apply to Douglass Day 2026.
 
-<img src="assets/power.webp" alt="Frederick Douglass headshot and motto 'Power concedes nothing without a demand'" style="width: 30%; margin-right: 12px;"/>
-
-{: .alt-warning}
-[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
+# Schedule for Douglass Day 2025
 
 ## Morning
 
-### TBD | The Geneseo Chamber Singers
+### 11:15 am | The Geneseo Chamber Singers
 
 Under the direction of Distinguished Teaching Professor of Music Gerry Floriano, the Geneseo Chamber Singers will perform choral music celebrating Frederick Douglass's life, vision, and legacy. Selections will include Randall Thompson's "The Last Words of David," Undine Smith Moore's "Daniel, Servant of the Lord," and Moses Hogan's "My Soul's Been Anchored." 
+
+### 11:30 | Remarks 
+
+Geneseo Chief Diversity Officer Rodmon King will offer opening remarks.
 
 ## Afternoon
 

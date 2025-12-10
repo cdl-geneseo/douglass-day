@@ -25,7 +25,7 @@ Douglass Day.
 
 ### Join your students for the live stream and/or transcribe-a-thon, or send them on their own
 
-- Have each student create an account on the Library of Congress' [By the People](https://crowd.loc.gov/) website, do some **transcribing**, go to their profile page, and download an automatically generated letter that details their contributions to the project. Make this either a required or an extra-credit assignment. (Have those students who'd prefer not to create an account take screenshots of their transcription work or photograph it with their phones.)
+- Have take screenshots of their transcription work or photograph it with their phones.
 - In addition to, or instead of, asking students to transcribe, ask them to **write a short reflection** on one or more of the following:
     - How the activity of transcribing an original historical document (if they engaged in it) changed their connection to or understanding of history in general or Black history, women's history, or intersectional history in particular
     - How participating in Douglass Day (whether or not they transcribed) changed their understanding of some idea/issue/time period/text you're studying with them in class
@@ -35,7 +35,7 @@ We'd love to post **thoughtful, well-crafted student writing**&mdash;on these or
 
 ### Contribute your own content to the Geneseo Douglass Day site
 
-We'd love to post **scholarly content and personal reflections** from Geneseo academic and professional faculty here. We're interested in short, **thoughtful, well-crafted pieces connected directly to the themes of Douglass Day 2023**. We have [guidelines](https://docs.google.com/document/d/16nBhZU5Lz3ZURyFXPpevbyQUpNj_XdJrfGHaPVoOGUg/edit?usp=sharing) for faculty content as well.
+We'd love to post **scholarly content and personal reflections** from Geneseo academic and professional faculty here. We're interested in short, **thoughtful, well-crafted pieces connected directly to the themes of Douglass Day**. We have [guidelines](https://docs.google.com/document/d/16nBhZU5Lz3ZURyFXPpevbyQUpNj_XdJrfGHaPVoOGUg/edit?usp=sharing) for faculty content as well.
 
 We also welcome suggestions for **links and references** to be added to our [Reading](reading) page. We've created a [folder in Google Drive](https://drive.google.com/drive/folders/1uvN0x0ZZYeXAJxf-1bdYEuhNPAzC9YkY?usp=sharing) that's visible to Geneseo account holders only where you can share pdfs. You can share links to websites in [this spreadsheet](https://docs.google.com/spreadsheets/d/1x3rNPCyg6fbS26sYWQ_Bue86lY33afHlmbWPw5NpTBI/edit?usp=sharing).
 

@@ -1,7 +1,7 @@
 ---
 title: Douglass Day 2024
 layout: default
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 {: .important}

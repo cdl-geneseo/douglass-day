@@ -1,7 +1,7 @@
 ---
 title: Douglass Day 2023
 layout: default
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
 # Douglass Day 2023

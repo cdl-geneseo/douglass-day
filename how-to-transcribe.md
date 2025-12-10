@@ -3,7 +3,9 @@ title: "How Do I Transcribe?"
 layout: default
 nav_order: 4
 ---
-{: .alt-warning}
+Detailed instructions coming soon.
+
+<!-- {: .alt-warning}
 Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2025-instructions.pdf) in pdf.
 
 # How Do I Transcribe?
@@ -38,5 +40,5 @@ You don't need to wait for Douglass Day to start developing your transcribing sk
 - Vist the campaign for the [correspondence of James A. Garfield](https://crowd.loc.gov/campaigns/garfield-correspondence/). You can visit any campaign, really, but the advantage of visiting the Garfield campaign is twofold: (1) Like the Douglass letters, the Garfield letters are written in a nineteenth-century hand; and (2) There are lots of letters still to be transcribed.
 - Look at some of the completed transcriptions to get a feel for how your own transcriptions should look.
 - Start transcribing! Notice that you can pull up a window with quick tips about transcription protocols right in the transcription interface. Strive for accuracy but remember that your transcription needn't be perfect or complete. *Every contribution moves the project forward.* If you find a page too difficult, you can simply pull up another. If you find transcription itself too difficult, you can contribute by reviewing or tagging others' transcriptions. There are multiple ways to contribute!
-- Take a moment to notice and be inspired by the number of people who've contributed to this and other By the People campaigns. This is the power of community!
+- Take a moment to notice and be inspired by the number of people who've contributed to this and other By the People campaigns. This is the power of community! -->
 
