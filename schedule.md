@@ -8,14 +8,18 @@ nav_order: 2
 
 <img src="assets/power.webp" alt="Frederick Douglass headshot and motto 'Power concedes nothing without a demand'" style="width: 30%; margin-right: 12px;"/>
 
-{: .alt-warning}
-[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
+<!-- {: .alt-warning}
+[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents. -->
 
 ## Morning
 
-### TBD | The Geneseo Chamber Singers
+### 10:15 | Dr. Jeffrey McCune, Frederick Douglass Professor, University of Rochester
 
-Under the direction of Distinguished Teaching Professor of Music Gerry Floriano, the Geneseo Chamber Singers will perform choral music celebrating Frederick Douglass's life, vision, and legacy. Selections will include Randall Thompson's "The Last Words of David," Undine Smith Moore's "Daniel, Servant of the Lord," and Moses Hogan's "My Soul's Been Anchored." 
+Dr. McCune will discuss and perform Frederick Douglass's July 5, 1852 oration, "What to the Slave is the Fourth of July?" Dr. McCune is Frederick Douglass Professor and Associate Professor of English and Black Studies at the University of Rochester, and the founding chair of the university's Department of Black Studies.
+
+### 11:00 | The Geneseo Chamber Singers
+
+Under the direction of Distinguished Teaching Professor of Music Gerry Floriano, the Geneseo Chamber Singers will perform choral music celebrating Frederick Douglass's life, vision, and legacy.
 
 ## Afternoon
 
@@ -29,7 +33,7 @@ We'll join the organizers in singing <a href="https://douglassday.org/anthem/" r
 
 Time for transcribing, readings, discussions, etc. During this time, the live stream will continue running but will go silent. The organizers' <a href="https://open.spotify.com/playlist/2XWu7KUki8NL5ps1FT7PC7?si=1234136005f24f7a" rel="nofollow ugc noopener">Spotify playlist</a> will back us up as we transcribe.
 
-[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
+<!-- [See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents. -->
 
 ### 1:00 - 1:30 | Live Broadcast
 
