@@ -13,23 +13,18 @@ nav_order: 2
 
 ## Morning
 
-### 10 a.m. | Welcome and Opening Remarks
+### 10 a.m. – 12:00 p.m.
 
-### 10:10 a.m. | Introduction 
+<p></p>
+Welcome and Introductions
 
-Dr. Jeffrey McCune, Frederick Douglass Professor, University of Rochester, founding chair of the university’s Department of Black Studies.
+[Dr. Jeffrey McCune](https://www.sas.rochester.edu/eng/people/faculty/mccune-jeffrey/index.html), Frederick Douglass Professor, University of Rochester, will discuss and perform Frederick Douglass’ July 5, 1852 oration, "What to the Slave is the Fourth of July?"
 
-### 10:20 a.m. | "What to the Slave is the Fourth of July?" 
-
-Dr. McCune will discuss and perform Frederick Douglass’s July 5, 1852 oration, "What to the Slave is the Fourth of July?"
-
-### 11:15 a.m. | The Geneseo Chamber Singers
-
-Under the direction of Distinguished Teaching Professor of Music Gerry Floriano, the Geneseo Chamber Singers will perform choral music celebrating Frederick Douglass's life, vision, and legacy. 
+Under the direction of Distinguished Teaching Professor of Music [Gerry Floriano](https://www.geneseo.edu/performingarts/gerard-floriano/), the Geneseo Chamber Singers will perform choral music celebrating Frederick Douglass' life, vision, and legacy. 
 
 ## Afternoon
 
-### 12:00 - 12:30 | Live Broadcast
+### 12:00 p.m. - 12:30 | Live Broadcast
 
 *Join the live broadcast from the Douglass Day [YouTube channel](https://youtube.com/channel/UCsMTkXeP7D-KJKN_3n53g0A).*
 
