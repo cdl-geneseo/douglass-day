@@ -29,7 +29,7 @@ These videos reference the URL for accessing Colored Conventions documents in 20
 
 # Transcription FAQ
 
-{: .important}
+{: .alt-warning}
 The FAQ below is reproduced from the Douglass Day project page in Zooniverse.
 
 ## I'm just here to transcribe, what's with these other questions?
