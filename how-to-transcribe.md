@@ -1,20 +1,90 @@
 ---
 title: "How Do I Transcribe?"
 layout: default
-nav_order: 4
+nav_order: 5
 ---
-Detailed instructions coming soon.
-
 <!-- {: .alt-warning}
-Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2025-instructions.pdf) in pdf.
+Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2025-instructions.pdf) in pdf. -->
 
 # How Do I Transcribe?
 
-<img src="assets/logo_2025.png" alt="Transcribe Douglass sticker showing Douglass\' face in profile" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2025 transcribe-a-thon focuses on the [African American Perspectives Collection at the Library of Congress](https://www.loc.gov/collections/african-american-perspectives-rare-books/about-this-collection/).
+<img src="assets/logo-2026.png" alt="Transcribe Douglass sticker showing two women who figured in the Colored Conventions of the nineteenth century and the labels Douglass Day 2026 and Douglassday.org" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2026 transcribe-a-thon returns to the [Colored Conventions Project](https://coloredconventions.org), "an interdisciplinary research hub that uses digital tools to bring the buried history of nineteenth-century Black organizing to life." Geneseo participants will transcribe digitized historical documents from the nineteenth-century state and local political meetings, known at the time as "Colored Conventions," where African Americans from the United States and Canada gathered to organize their struggle for civil and human rights.
 
-Transcribers will use the Library of Congress' [By the People](https://crowd.loc.gov/) platform to do the work.
+What were the Colored Conventions? We've reprinted the Douglass Day organizers' [useful explainer here]({{ site.url }}/colored-conventions) so you can quickly get up to speed. But the even shorter version, as explained by the organizers,  is this: "The Colored Conventions were state and national meetings held by free and formerly enslaved African Americans to debate their collective struggles. We estimate that more than 10,000 delegates attended more than 600 Colored Conventions. At these meetings, delegates talked about voting rights, education, labor, business, and a whole lot more. The conventions were highly democratic spaces at a time when Black people were denied access to the voting booth or the jury box."
 
-## Account registration
+Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsouring platform for this year's work.
+
+The videos below from the last time Douglass Day used Zooniverse will walk you through the transcription process.
+
+{: .important}
+These videos reference the URL for accessing Colored Conventions documents in 2022. We'll provide the URL for 2026 here as soon as it becomes available. Instructions for the 2026 transcription may also differ a bit from those shown here, but the basics should remain the same.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-D3O4tCFTAk?si=aNhyo2urREnON35p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHwEN0XNcQk?si=BMNmRA8En5De1QDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Gt0NHi9wrU?si=VSNfuSOWPSNF_9z9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYsi932vw3o?si=mjg0VtQQhLUCBzaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Transcription FAQ
+
+{: .important}
+The FAQ below is reproduced from the Douglass Day project page in Zooniverse.
+
+## I'm just here to transcribe, what's with these other questions?
+
+We want you to transcribe too! You will likely encounter a few questions before the transcription so that we can help you provide the transcription that will be most valuable to us.
+
+## What if I transcribe something wrong?
+
+That's okay! We are most interested in what you see on the page. Other users will also be transcribing the same documents that you are, so we will be able to compare and contrast different attempts at transcriptions to come up with the most accurate results possible. There are also buttons you can use during the transcription to indicate if a section of text is unclear.
+
+## What is a workflow?
+
+A workflow is the category of documents that you can choose from on the home page. One example is "Transcribe:" If you'd like to know what documents you might find in each workflow, check out the Field Guide section entitled "Workflow Descriptions."
+
+## There are a lot of workflows, where should I start?
+
+Start wherever you would like! If any documents have been transcribed enough they will disappear from the home page, meaning that whatever you see is something that we definitely need transcribed. The majority of our other documents only have words. A small percent of the documents in any of the workflows may be blank or contain only images and you will see instructions on what to do with those within the workflow tasks or the tutorial. Each workflow shows a different aspect of the Conventions' history, so choose whichever one(s) that interest you the most.
+
+If you want a little more spontaneity, you can also click 'Classify' at the top of the page, and Zooniverse will choose a random workflow for you.
+
+## How do I locate women in the sources?
+
+Compared to transcribing, this is much simpler! To locate the people who identified as women, read the entire document. Then simply enter in the name of any women who appear in the document. This way, we can build a fuller and more complex understanding of their role at the Colored Conventions.
+
+## For some reason, my transcription isn't formatted like the document. What should I do about this?
+
+Yes, we understand that you may want to keep the document's original format, but we are primarily concerned with your word by word transcription. Please do keep lines and paragraphs with each other, but do not worry about line breaks, end-of-line hyphenated words, and etc. Please retain original spelling and appearance of the texts (misspellings, capitalized/uncapitalized letters, punctuation, and, if possible, symbols). The deletion, unclear, and insertion tools can help you show us that these anomalies are present in the original document, not your mistakes.
+
+## I want to add some additional information about this document that's not part of the transcription, what should I do?
+
+That's awesome! Go to our "Talk" boards and post any special information or insights you might have about the documents. You can also go there to ask more questions or offer comments about the project more generally.
+
+## Where can I go to receive help about a document I am transcribing?
+
+We have many different ways to help you through the transcription process. Other than this FAQ page, each workflow or category has a tutorial that pops up when you first click on a workflow. This tutorial has some significant basic information about the workflow that you are on, how to transcribe the workflow's particular documents, and references to other sites of help throughout this project. You always have access to the tutorial just by clicking 'tutorial.' The tutorial also exists in a video format, which is available in this YouTube playlist. There is also a field guide available for extra help during each workflow. Some workflows have a 'help text' for even more assistance! The help text gives you more in-depth information about the workflow, if you are having trouble transcribing the document. If you click the (i) symbol under the document, you will be able to receive more information about the document and engage with it on the Colored Conventions Project Website. And, the talk boards and our social media pages can also be helpful resources.
+
+## I don't feel like I can accurately transcribe this document because of time or visibility, what are my options?
+
+That's okay! You have two options in this situation. You can either refresh the page to receive a new document or you can choose another workflow on the home page. If you refresh the page, anything that you did transcribe will not be saved and there's no guarantee that the new document will be related to the one you were just transcribing, since it is a random selection. We hope this gives you the freedom to choose the documents that you feel most comfortable with and believe that you can fully and accurately transcribe!
+
+## Is there a 'save draft' feature, or do we need to transcribe the entire document in one sitting?
+
+Unfortunately, there is no 'save draft' feature. To finish a document, you must transcribe it in one sitting (or choose another document). There are ways that you can return to a document that you are interested in! If you click the heart symbol under the document window in the workflow, you can save the document for later for your own enjoyment or to discuss it on our talk boards!
+
+## Can I transcribe an entire article, rather than just one page?
+
+Because Zooniverse chooses the documents randomly based on if they still need transcribing or not, we cannot guarantee that you will be able to transcribe an entire article. We love that you want to transcribe an entire article!
+
+## Where can I find more information on the Colored Conventions?
+
+Great question! More information about the Conventions can be found under the 'Education' sub-tab under the 'About' tab. This section also includes information about why we do this work and why it is important for you to be a part of this transcription project!
+
+
+
+<!-- ## Account registration
 
 You can transcribe *without registering an account on the By the People website*. But creating an account will enable you to track your transcriptions and participate as a reviewer as well as a transcriber. From your profile page, you can download a letter from the Library of Congress documenting all your contributions to the project. We enthusiastically recommend registering!
 
