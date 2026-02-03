@@ -11,9 +11,14 @@ Go straight to the [schedule]({{ site.url }}/schedule) or to [our easy-to-follow
 
 [Douglass Day](https://douglassday.org) at SUNY Geneseo returns on **February 13, 2026**&mdash;in the gorgeous [Multi-Purpose Rooms (134/129)](https://d2jv02qf7xgjwx.cloudfront.net/customers/101/images/multipurpose-room.png) of [Milne Library](https://library.geneseo.edu/)!
 
+In the morning, **beginning at 10 a.m.**, we'll welcome participants and learn about Douglass from [Dr. Jeffrey McCune, Jr.](https://www.sas.rochester.edu/eng/people/faculty/mccune-jeffrey/index.html), Frederick Douglass Professor at the University of Rochester, who will discuss and perform Douglass’ July 5, 1852 oration, "What to the Slave is the Fourth of July?"
+
+As they've done the past two years, the Geneseo Chamber Singers, under the direction of Distinguished Teaching Professor of Music [Gerry Floriano](https://www.geneseo.edu/performingarts/gerard-floriano/), will close out the morning with choral music celebrating Frederick Douglass' life, vision, and legacy. 
+
 As in past years, the world-wide transcribe-a-thon and live stream from the organizers at [DouglassDay.org](https://douglassday.org) will take place **from 12 noon to 3 p.m.** This year's transcribe-a-thon will feature documents related to the [Colored Conventions Project](https://coloredconventions.org/), "an interdisciplinary research hub that uses digital tools to bring the buried history of nineteenth-century Black organizing to life." Geneseo participants will transcribe digitized historical documents from the nineteenth-century state and local political meetings, known at the time as "Colored Conventions," where African Americans from the United States and Canada gathered to organize their struggle for civil and human rights.
 
-As they've done the past two years, the Geneseo Chamber Singers will perform in Milne Library in the late morning, before the live stream begins. We're working to organize other morning activities as well. Watch this page for more details as our plans take shape!
+{: .alt-warning}
+See the [complete schedule of events here]({{ site.url }}/schedule).
 
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/save-the-date_2026.webp" alt="Save-the-date poster for Douglass Day 2026 with faces of people connected to 19th century conventions advancing Black Americans' civil rights" /></a></div>
 

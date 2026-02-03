@@ -3,7 +3,7 @@ title: "What Were the Colored Conventions?"
 layout: default
 nav_order: 4
 ---
-{: .important}
+{: .alt-warning}
 Reproduced from the Douglass Day project site on Zooniverse.
 
 # What Were the Colored Conventions?
