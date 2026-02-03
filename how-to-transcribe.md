@@ -12,7 +12,7 @@ Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-dou
 
 What were the Colored Conventions? We've reprinted the Douglass Day organizers' [useful explainer here]({{ site.url }}/colored-conventions) so you can quickly get up to speed. But the even shorter version, as explained by the organizers,  is this: "The Colored Conventions were state and national meetings held by free and formerly enslaved African Americans to debate their collective struggles. We estimate that more than 10,000 delegates attended more than 600 Colored Conventions. At these meetings, delegates talked about voting rights, education, labor, business, and a whole lot more. The conventions were highly democratic spaces at a time when Black people were denied access to the voting booth or the jury box."
 
-Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsouring platform for this year's work.
+Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsourcing platform for this year's work.
 
 The videos below from the last time Douglass Day used Zooniverse will walk you through the transcription process.
 
