@@ -18,7 +18,7 @@ nav_order: 2
 <p></p>
 Welcome and Introductions
 
-[Dr. Jeffrey McCune](https://www.sas.rochester.edu/eng/people/faculty/mccune-jeffrey/index.html), Frederick Douglass Professor, University of Rochester, will discuss and perform Frederick Douglass’ July 5, 1852 oration, "What to the Slave is the Fourth of July?"
+[Dr. Jeffrey McCune, Jr.](https://www.sas.rochester.edu/eng/people/faculty/mccune-jeffrey/index.html), Frederick Douglass Professor, University of Rochester, will discuss and perform Frederick Douglass’ July 5, 1852 oration, "What to the Slave is the Fourth of July?"
 
 Under the direction of Distinguished Teaching Professor of Music [Gerry Floriano](https://www.geneseo.edu/performingarts/gerard-floriano/), the Geneseo Chamber Singers will perform choral music celebrating Frederick Douglass' life, vision, and legacy. 
 
