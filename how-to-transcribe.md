@@ -3,8 +3,6 @@ title: "How Do I Transcribe?"
 layout: default
 nav_order: 5
 ---
-<!-- {: .alt-warning}
-Download a [handy transcription crib sheet]({{ site.url }}/assets/transcribe-douglass-2025-instructions.pdf) in pdf. -->
 
 # How Do I Transcribe?
 
@@ -14,10 +12,96 @@ What were the Colored Conventions? We've reprinted the Douglass Day organizers' 
 
 Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsourcing platform for this year's work.
 
-The videos below from the last time Douglass Day used Zooniverse will walk you through the transcription process.
+## How to Transcribe
+
+{: .alt-warning}
+You can download and print a [pdf version of these instructions]({{ site.url }}/assets/transcribe-douglass-2026-instructions.pdf).
+
+### Do​     ​      ​      ​          ​          ​      ​        ​       
+- Type every word on the page into the text box​             ​       
+- Insert a new line between - paragraphs​
+- ​Keep original spelling, grammar, capitals​​
+- Include all titles and page numbers
+
+### Don't
+
+- Don't expand abbreviations ​
+- Don't worry about formatting​
+- Don’t worry about line-breaks
+
+​Find something interesting? Share it on Instagram or Bluesky using #DouglassDay!
+
+### How To Find the Names
+
+1. Type all of the names in a list
+2. Add each name once
+3. Separate each name using a semicolon (`;`);
+4. Match the exact spelling, abbreviations, and capitals
+5. Type any titles (Rev., Dr., Mrs., etc)
+6. Add \[square brackets\] if you see clues that any of the names are women
+
+
+Example: Frederick Douglass; Wm. W. Brown; Rev. H. M. Turner; \[Mary Ann Shadd\]​
+
+### Tips for the Zooniverse Site
+
+| Topic | Tip |
+------- | -----
+| ⚠️ Warning | There is no auto-save or save function! |
+| See the Full Page | Scroll down to see the full page. |
+| Get a New Page | Want a new page? Just refresh your browser. |
+| Need Help? | Click the TUTORIAL button for step-by-step guidance. |
+Leave Comments | Click in the bottom right corner to comment on the page. |
+Resize Text Box | Drag the lower right corner to expand the text box. |
+
+### Project FAQ
+
+**Do I need an account?**  
+No, but we really recommend it! An account lets you track your progress and see your past work.
+
+**What is a "subject set"?​**  
+A subject set is a group of digitized files or records. We have grouped records by state/area.
+
+**Is there auto-save?​**  
+No. There is no save feature on Zooniverse. If you are working on a long page, consider typing in a separate document first, then copy and paste the text into the text box.
+
+**Scroll up and down the page​**  
+Make sure you scroll down to see the whole page. Some pages may be longer than your screen.
+
+### Formatting Rules
+
+**How do I add a blank line between paragraphs?**  
+Insert one empty line between paragraphs. In practical terms, the Return button twice.
+
+**What about words split across lines?**  
+Do not keep the hyphen for words split across lines.
+
+**How do I mark women's names?​**  
+Add [square brackets] if you see clues that any of the names are women.
+
+**What if I see women mentioned, but there are no names?**  
+If you’re not sure, you can leave a short comment. If you see a reference to women, but no names, you can type those words in the last step.
+
+**What if the text has been changed or is hard to read?​**  
+Highlight the text and then click on one of these buttons:
+
+- Deletion: words that were crossed out or typed over
+- Insertion: words that were added to the original text
+- Unclear: words that are difficult to read
+
+### Tips for Success
+
+**What is TALK?**  
+Talk is our project forum.
+
+**What if I make a mistake?**  
+Our team reviews everything.
+
+**Should I take breaks?​**  
+Take a break every 15 mins
 
 {: .important}
-These videos reference the URL for accessing Colored Conventions documents in 2022. We'll provide the URL for 2026 here as soon as it becomes available. Instructions for the 2026 transcription may also differ a bit from those shown here, but the basics should remain the same.
+These videos reference the URL for accessing Colored Conventions documents in 2022. The Zooniverse user interface has changed a bit from what you'll see here, but the instructions are still helpful.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-D3O4tCFTAk?si=aNhyo2urREnON35p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p></p>
@@ -27,7 +111,7 @@ These videos reference the URL for accessing Colored Conventions documents in 20
 <p></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TYsi932vw3o?si=mjg0VtQQhLUCBzaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Transcription FAQ
+<!-- # Transcription FAQ
 
 {: .alt-warning}
 The FAQ below is reproduced from the Douglass Day project page in Zooniverse.
@@ -80,7 +164,7 @@ Because Zooniverse chooses the documents randomly based on if they still need tr
 
 ## Where can I find more information on the Colored Conventions?
 
-Great question! More information about the Conventions can be found under the 'Education' sub-tab under the 'About' tab. This section also includes information about why we do this work and why it is important for you to be a part of this transcription project!
+Great question! More information about the Conventions can be found under the 'Education' sub-tab under the 'About' tab. This section also includes information about why we do this work and why it is important for you to be a part of this transcription project! -->
 
 
 
