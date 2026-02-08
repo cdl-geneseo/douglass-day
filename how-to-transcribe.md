@@ -19,7 +19,7 @@ You can download and print a [pdf version of these instructions]({{ site.url }}/
 
 ### Do​     ​      ​      ​          ​          ​      ​        ​       
 - Type every word on the page into the text box​             ​       
-- Insert a new line between - paragraphs​
+- Insert a new (blank) line between paragraphs​
 - ​Keep original spelling, grammar, capitals​​
 - Include all titles and page numbers
 
