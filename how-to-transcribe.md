@@ -15,7 +15,7 @@ Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsourcing pla
 ## How to Transcribe
 
 {: .alt-warning}
-You can download and print a <a href="https://cdl-geneseo.github.io/assets/transcribe-douglass-2026-instructions.pdf" style="color: white; text-decoration: underline;">pdf version of these instructions.</a>
+You can download and print a <a href="https://drive.google.com/file/d/13BrxTC7Y-H2pUWlZlvrP0b2XTibSEnh5/view?usp=sharing" style="color: white; text-decoration: underline;">pdf version of these instructions.</a>
 
 ### Do​     ​      ​      ​          ​          ​      ​        ​       
 - Type every word on the page into the text box​             ​       
