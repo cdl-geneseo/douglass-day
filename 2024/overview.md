@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 has_children: true
 ---
-{: .important}
+{: .alt-warning}
 This is an archive of materials from Douglass Day 2024. Details may not apply to the current Douglass Day celebration.
 
 # Douglass Day 2024 at Geneseo

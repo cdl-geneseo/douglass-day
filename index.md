@@ -18,7 +18,7 @@ As they've done the past two years, the Geneseo Chamber Singers, under the direc
 As in past years, the world-wide transcribe-a-thon and live stream from the organizers at [DouglassDay.org](https://douglassday.org) will take place **from 12 noon to 3 p.m.** This year's transcribe-a-thon will feature documents related to the [Colored Conventions Project](https://coloredconventions.org/), "an interdisciplinary research hub that uses digital tools to bring the buried history of nineteenth-century Black organizing to life." Geneseo participants will transcribe digitized historical documents from the nineteenth-century state and local political meetings, known at the time as "Colored Conventions," where African Americans from the United States and Canada gathered to organize their struggle for civil and human rights.
 
 {: .alt-warning}
-See the complete schedule of events on our <a href="https://cdl-geneseo.github.io/douglass-day/schedule.html" style="color: white; text-decoration: underline;">schedule page</a>.
+See the complete schedule of events on our <a href="https://cdl-geneseo.github.io/douglass-day/schedule.html" style="color: black; text-decoration: underline;">schedule page</a>.
 
 <div style="text-align: center;"><a href="https://douglassday.org"><img src="assets/save-the-date_2026.webp" alt="Save-the-date poster for Douglass Day 2026 with faces of people connected to 19th century conventions advancing Black Americans' civil rights" /></a></div>
 

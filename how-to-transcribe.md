@@ -15,7 +15,7 @@ Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsourcing pla
 ## How to Transcribe
 
 {: .alt-warning}
-You can download and print a <a href="https://drive.google.com/file/d/13BrxTC7Y-H2pUWlZlvrP0b2XTibSEnh5/view?usp=sharing" style="color: white; text-decoration: underline;">pdf version of these instructions.</a>
+You can download and print a <a href="https://drive.google.com/file/d/13BrxTC7Y-H2pUWlZlvrP0b2XTibSEnh5/view?usp=sharing" style="color: black; text-decoration: underline;">pdf version of these instructions.</a>
 
 ### Do​     ​      ​      ​          ​          ​      ​        ​       
 - Type every word on the page into the text box​             ​       
@@ -100,7 +100,7 @@ Our team reviews everything.
 **Should I take breaks?​**  
 Take a break every 15 mins
 
-{: .important}
+{: .alt-warning}
 These videos reference the URL for accessing Colored Conventions documents in 2022. The Zooniverse user interface has changed a bit from what you'll see here, but the instructions are still helpful.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-D3O4tCFTAk?si=aNhyo2urREnON35p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -4,7 +4,7 @@ layout: default
 nav_order: 6
 has_children: true
 ---
-{: .important}
+{: .alt-warning}
 This is an archive of materials from Douglass Day 2025. Details may not apply to the current Douglass Day celebration.
 
 # Douglass Day 2025 at Geneseo

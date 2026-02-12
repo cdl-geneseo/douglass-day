@@ -4,7 +4,7 @@ layout: default
 parent: Douglass Day 2023
 nav_order: 2
 ---
-{: .important}
+{: .alt-warning}
 You're viewing an archived page from Douglass Day 2023. Details may not apply to the current Douglass Day celebration.
 
 # Instructor Resources 2023

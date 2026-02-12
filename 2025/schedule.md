@@ -5,7 +5,7 @@ parent: Douglass Day 2025
 nav_order: 1
 ---
 
-{: .important}
+{: .alt-warning}
 You're viewing an archived page from Douglass Day 2025. Details may not apply to Douglass Day 2026.
 
 # Schedule for Douglass Day 2025

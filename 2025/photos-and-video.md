@@ -5,7 +5,7 @@ parent: Douglass Day 2025
 nav_order: 3
 ---
 
-{: .important}
+{: .alt-warning}
 You're viewing an archived page from Douglass Day 2025.
 
 # Photos and Video from Douglass Day 2025
