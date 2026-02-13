@@ -6,11 +6,16 @@ nav_order: 5
 
 # How Do I Transcribe?
 
-<img src="assets/logo-2026.png" alt="Transcribe Douglass sticker showing two women who figured in the Colored Conventions of the nineteenth century and the labels Douglass Day 2026 and Douglassday.org" style="float: left; width: 30%; margin-right: 12px;"/>Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2026 transcribe-a-thon returns to the [Colored Conventions Project](https://coloredconventions.org), "an interdisciplinary research hub that uses digital tools to bring the buried history of nineteenth-century Black organizing to life." Geneseo participants will transcribe digitized historical documents from the nineteenth-century state and local political meetings, known at the time as "Colored Conventions," where African Americans from the United States and Canada gathered to organize their struggle for civil and human rights.
+<img src="assets/logo-2026.png" alt="Transcribe Douglass sticker showing two women who figured in the Colored Conventions of the nineteenth century and the labels Douglass Day 2026 and Douglassday.org" style="float: left; width: 30%; margin-right: 12px;"/>
+
+{: .alt-warning}
+This year we're transcribing on the Zooniverse platform. <a href="https://www.zooniverse.org/projects/douglassday/transcribe-2026" target="_blank" style="color: black; text-decoration: underline;">Go there now</a>.
+
+Every Douglass Day, participants, wherever they are, work together to transcribe historical documents that help tell the story of Black activism in the United States. The 2026 transcribe-a-thon returns to the [Colored Conventions Project](https://coloredconventions.org), "an interdisciplinary research hub that uses digital tools to bring the buried history of nineteenth-century Black organizing to life." Geneseo participants will transcribe digitized historical documents from the nineteenth-century state and local political meetings, known at the time as "Colored Conventions," where African Americans from the United States and Canada gathered to organize their struggle for civil and human rights.
 
 What were the Colored Conventions? We've reprinted the Douglass Day organizers' [useful explainer here]({{ site.url }}/colored-conventions) so you can quickly get up to speed. But the even shorter version, as explained by the organizers,  is this: "The Colored Conventions were state and national meetings held by free and formerly enslaved African Americans to debate their collective struggles. We estimate that more than 10,000 delegates attended more than 600 Colored Conventions. At these meetings, delegates talked about voting rights, education, labor, business, and a whole lot more. The conventions were highly democratic spaces at a time when Black people were denied access to the voting booth or the jury box."
 
-Transcribers will use the [Zooniverse](https://zooniverse.org) crowdsourcing platform for this year's work.
+Transcribers will use the [Zooniverse](https://www.zooniverse.org/projects/douglassday/transcribe-2026) crowdsourcing platform for this year's work.
 
 ## How to Transcribe
 
