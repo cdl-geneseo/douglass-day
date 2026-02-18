@@ -34,7 +34,9 @@ We'll join the organizers in singing <a href="https://douglassday.org/anthem/" r
 
 Time for transcribing, readings, discussions, etc. During this time, the live stream will continue running but will go silent. The organizers' <a href="https://open.spotify.com/playlist/2XWu7KUki8NL5ps1FT7PC7?si=1234136005f24f7a" rel="nofollow ugc noopener">Spotify playlist</a> will back us up as we transcribe.
 
-<!-- [See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents. -->
+[See our easy-to-follow instructions]({{ site.url }}/how-to-transcribe) for transcribing documents.
+
+This year we're transcribing documents from the <a href="https://www.zooniverse.org/projects/douglassday/transcribe-2026" target="_blank">Colored Conventions Project on Zooniverse</a>.
 
 ### 1:00 – 1:30 | Live Broadcast
 
